@@ -82,5 +82,3 @@ You will also need to update **LANGS.md** with your language once enough of the 
   document name and changelist in your translated [document front matter](https://toolchain.gitbook.com/pages.html#front-matter).
 
 If you have any further questions, please create them as issues in this wiki, or on the [discussion boards](http://discuss.px4.io/c/site-feedback).
-
-
