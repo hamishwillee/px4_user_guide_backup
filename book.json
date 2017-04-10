@@ -19,8 +19,12 @@
         },
         "github": {
             "url": "https://github.com/hamishwillee/px4_user_guide"
-        }
-        
+        },
+
+    "language-redirect": {
+        "baseurl": "https://hamishwillee.gitbooks.io/px4-user-guide/"
+    }
+
         
     } 
 }
