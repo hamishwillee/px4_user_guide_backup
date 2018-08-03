@@ -2,7 +2,7 @@
 
 The orientation and horizon level may be fine-tuned manually with parameters to correct for sensor board small misalignment or minor calibration errors.
 
-> **Note** These instructions are not recommended for regular users. For basic settings stick to the instructions linked below:
+> **참고** 이 지침은 일반 사용자를 위한 권장 하지 않습니다. 기본 설정 스틱 지침에 대 한 아래 링크:
 
 - [Flight Controller Orientation](../config/flight_controller_orientation.md)
 - [Level Horizon Calibration](config/level_horizon_calibration.md) 
