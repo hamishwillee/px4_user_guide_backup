@@ -1,13 +1,6 @@
-# Introduction
+# Basic Assembly
 
-Welcome to *PX4 Autopilot Users Manual* and thank you for choosing our product.
+This section contains assembly and wiring information for a "minimal" autopilot system using the different [flight controllers](../flight_controller/README.md).
 
-Here you will find all the information necessary to setup and fly your PX4 drone safely.
-
-Use the navigation pane on the left to walk through the documentation.
-
-> **Note** This guide is brand new. It is suitable to get started, but does not yet cover all of PX4.
-
-## License
-
-The *PX4 User Guide* is available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+* See [Peripherals](../peripherals/README.md) for information about connecting sensors and other peripherals.
+* See [Specific Vehicle Builds](../framebuild_README.md) for complete assembly examples on different vehicle frames.
